@@ -3,6 +3,18 @@
 Author:  Joe Ellis
 License: Same terms as Vim itself (see |license|)
 
+------------------------------------------------------------------------------
+
+THIS PLUGIN IS DEPRECATED
+
+This plugin is deprecated in favour of vim-searchlist, which supports both Vim
+and Neovim.
+>
+    https://github.com/joechrisellis/vim-searchlist
+<
+------------------------------------------------------------------------------
+
+
 CONTENTS                                        *searchlist* *searchlist-contents*
 
     INTRODUCTION...................................: |searchlist-introduction|

@@ -1,7 +1,8 @@
 # DEPRECATED
 
 This plugin is deprecated in favour of
-[vim-searchlist](https://github.com/joechrisellis/vim-searchlist)
+[vim-searchlist](https://github.com/joechrisellis/vim-searchlist), which works
+for both Vim and Neovim.
 
 # nvim-searchlist
 

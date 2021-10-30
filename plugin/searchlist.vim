@@ -1,6 +1,16 @@
+" ----------------------------------------------------------------------------
+" WARNING: THIS PLUGIN IS DEPRECATED
+"
+" This plugin is deprecated in favour of vim-searchlist, which supports both Vim
+" and Neovim.
+"
+"     https://github.com/joechrisellis/vim-searchlist
+"
+" ----------------------------------------------------------------------------
+"
 " nvim-searchlist - adds a searchlist to Neovim.
 "
-" Maintainer:   Joe Ellis <joechrisellis@gmail.com>
+" Maintainer:   UNMAINTAINED
 " Version:      0.1.0
 " License:      Same terms as Vim itself (see |license|)
 " Location:     plugin/searchlist.vim
