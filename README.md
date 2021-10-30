@@ -1,3 +1,8 @@
+# DEPRECATED
+
+This plugin is deprecated in favour of
+[vim-searchlist](https://github.com/joechrisellis/vim-searchlist)
+
 # nvim-searchlist
 
 ![nvim-searchlist demo](https://github.com/joechrisellis/nvim-searchlist/blob/assets/assets/demo.gif)
